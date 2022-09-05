@@ -27,7 +27,7 @@ gitlab-runner register \
    --request-concurrency 10 \
    --name "runners-tan" \
    --url "https://gitlab.com/" \
-   --registration-token "GR1348941uPWW7DE4t9jj8zjXomsK" \
+   --registration-token "REDACTED" \
    --executor "docker+machine" \
    --tag-list "tanya-scale3" \
    --locked \
